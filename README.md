@@ -1,5 +1,5 @@
 # Hey there,
-I'm Yogesh Ramamoorthyz<br/>
+I'm Yogesh Ramamoorthy<br/>
 
 🎓 B.E. CSE (Cyber Security) student at Arunai Engineering College | CGPA: 8.6<br/>
 🔐 Passionate about cybersecurity, ethical hacking, and secure software development<br/>
